@@ -172,4 +172,6 @@
 // 4-masala
 // Ushbu oyda qiynalgan mavzularingiz ro'yhatini to'liq yozing.
 
-// 1
+// 1 HOF, CALLBACK NIMA EKANLIGINI TUSHUNMADIM
+// 2 WHILE VA DO WHILE NI YAHWI TUSHUNMADIM
+// 3 FUNKSIYALARNI 70% TUWUNDM 30% TUWUNMADM
